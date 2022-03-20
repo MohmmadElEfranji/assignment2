@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget {
 
   Scaffold buildScaffoldPortrait(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.pink,
       appBar: AppBar(
         title: const Text('Second Assignment'),
         backgroundColor: Colors.purpleAccent,
